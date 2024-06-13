@@ -293,3 +293,6 @@ we can ensure that the Cardano Atlantic Council remains a vital and effective
 component of Cardano's Constitutional Committee, championing the interests and
 principles of the entire Cardano ecosystem.
 
+## Signed and Accepted By:
+
+[Adam Dean](https://twitter.com/adamkdean)
