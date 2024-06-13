@@ -295,6 +295,9 @@ principles of the entire Cardano ecosystem.
 
 ## Signed and Accepted By:
 
-[Adam Dean](https://twitter.com/adamkdean)
-[Richard McCracken](https://x.com/RichardMcCrackn)
+[Adam Dean](https://x.com/adamkdean)
+[Beatrice Anihiri](https://x.com/BeatriceAnihiri)
+[Jenny Brito](https://x.com/Jennycitalinda)
 [Mike Hornan](https://x.com/Hornan7)
+[Richard McCracken](https://x.com/RichardMcCrackn)
+[Thiago Nunes](https://x.com/tsnnst)
