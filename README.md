@@ -1,10 +1,3 @@
----
-title: Cardano Atlantic Council Charter
-allowTitleToDifferFromFilename: true
-type: reference
-effectiveDate: 2024-06-12
----
-
 # Cardano Atlantic Council Charter
 
 **Effective: 2024-06-12**
