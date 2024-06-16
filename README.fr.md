@@ -296,3 +296,4 @@ les principes de l'ensemble de l'écosystème de Cardano.
 ## Signé et accepté par :
 [Mike Hornan](https://x.com/Hornan7)
 [Adam Dean](https://x.com/adamkdean)
+[Thiago Nunes](https://x.com/tsnnst)
